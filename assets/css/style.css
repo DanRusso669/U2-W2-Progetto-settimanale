@@ -13769,6 +13769,10 @@ textarea.form-control-lg {
   background-color: #e50914;
 }
 
+img {
+  cursor: pointer;
+}
+
 body {
   background-color: #141414;
 }
