@@ -1,0 +1,11 @@
+@import "./partials/bootstrap-override";
+
+#dropdown {
+  li {
+    a {
+      &:hover {
+        background-color: #e50914;
+      }
+    }
+  }
+}
