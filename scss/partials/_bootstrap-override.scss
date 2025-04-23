@@ -19,6 +19,8 @@ $theme-colors-custom: (
   strive-gray: #666666,
   epi-true-black: #000000,
   profile-color: #adb5bd,
+  epi-cyan: #007df1,
+  settings-btn: #e2e2e2,
 );
 
 $theme-colors: map-merge($theme-colors, $theme-colors-custom);
